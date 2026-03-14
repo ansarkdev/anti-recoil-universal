@@ -5,6 +5,8 @@
 
 You will be banned on games with decent anti-cheats (Apex, Valorant, etc.). This script currently lacks any hardware spoofing or bypasses. Use this only for testing or on games with basic protection.
 
+*THIS SCRIPT ONLY CONTROLS vertical recoil.* For most games you only need to control the first 10 - 15 bullets anyways which is mostly vertical only. In very rare occasions do u spray indefinitely. So this is perfect for that.
+
 </details>
 
 <details>
@@ -50,9 +52,8 @@ Custom Binds: You can rebind the profile switcher to any key in the menu.
 
 <details>
 <summary><b>🛠 Known Issues & Roadmap</b></summary>
-
 Bug: Burst Mode is currently broken. Keep the burst checkbox off or the pull logic will fail.
 
-Future: Working on an Arduino-based hardware bypass for better security.
+Future: Working on an Arduino-based hardware bypass for better security. Working on x axis recoil. 
 
 </details>
