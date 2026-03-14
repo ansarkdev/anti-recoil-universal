@@ -1,4 +1,4 @@
-Gemini said
+
 📜 README: Anti-Recoil Universal
 <details>
 <summary><b>⚠️ Anti-Cheat Warning</b></summary>
