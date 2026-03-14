@@ -1,14 +1,4 @@
 #!/usr/bin/env python3
-"""Mouse Puller
-
-Hold LMB (+ optionally RMB) to pull the mouse cursor downward at a configurable
-speed.  Designed for recoil compensation in first-person shooters.
-
-Requirements:
-    pip install pynput FreeSimpleGUI
-
-Platform: Windows only (uses Win32 APIs for the click-through OSD overlay).
-"""
 from __future__ import annotations
 
 import ctypes
