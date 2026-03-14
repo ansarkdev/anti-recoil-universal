@@ -12,10 +12,10 @@ You will be banned on games with decent anti-cheats (Apex, Valorant, etc.). This
 
 Requirements: Windows and Python 3.
 
-Install Dependencies: ```bash
+Install Dependencies:
 pip install pynput FreeSimpleGUI
 
-Run: ```bash
+Run:
 python recoil.py
 
 </details>
