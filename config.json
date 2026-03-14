@@ -1,0 +1,30 @@
+{
+  "hotkey": "H",
+  "rmb_activate": true,
+  "profiles": [
+    {
+      "name": "sg45",
+      "speed": 110,
+      "distance": 135,
+      "burst_enabled": false,
+      "burst_speed": 0.0,
+      "burst_dist": 0.0
+    },
+    {
+      "name": "ak47",
+      "speed": 190,
+      "distance": 152,
+      "burst_enabled": false,
+      "burst_speed": 0.0,
+      "burst_dist": 0.0
+    },
+    {
+      "name": "m4",
+      "speed": 120,
+      "distance": 110,
+      "burst_enabled": false,
+      "burst_speed": 0.0,
+      "burst_dist": 0.0
+    }
+  ]
+}
